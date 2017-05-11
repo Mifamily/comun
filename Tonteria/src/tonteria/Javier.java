@@ -2,6 +2,7 @@ package tonteria;
 
 public class Javier {
 	private String Nombre="Javier";
+	private String Nombre2="Javier2";
 
 	public Javier(String nombre) {
 		super();
